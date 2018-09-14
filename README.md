@@ -9,7 +9,7 @@ Please use and share this openly but use at your own risk.
 
 About the files:
 
-IMPORTANT: I suggest downloading the html and RLink_code documents to start with. If you choose to clone or download the package you'll have to update the paths for the files used as I updated the code to run from the GitHub URL.
+IMPORTANT: I suggest downloading the files or copying the code from the RLink_code.R file into your own R script. If you choose to clone or download the package and want to run this locally, you'll have to update the paths for the files in the code used as I updated the code to run from the GitHub URL.
 
 RLinkCityMatCH.html is the presentation given. Download it to view it.  
   
