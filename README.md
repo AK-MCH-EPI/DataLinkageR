@@ -1,5 +1,5 @@
 # DataLinkageR
-A simple example using the RecordLinkage package in R was shared at the 2018 CityMatCH conference.
+A simple example using the RecordLinkage package in R was shared at the 2019 CSTE conference.
 
 All names are made up by me, and any similarity are entirely due to chance.
 
